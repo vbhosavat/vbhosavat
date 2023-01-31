@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vbhosavat Vishal Bhosale  
-- 👀 I’m interested in learning and projects
-- 🌱 I’m currently learning ...Docker, Jenkins, Kubernetes
-- 💞️ I’m looking to collaborate on ..projects
-- 📫 How to reach me ...
+- 👀 I’m  Working on projects and to contrubute open source
+- 🌱 I’m currently Docker, Jenkins, Kubernetes
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me ...vishalabhosale30@gmail.com
 
 <!---
 vbhosavat/vbhosavat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
