@@ -2,7 +2,7 @@
 - 👀 I’m  Working on projects and to contrubute open source
 - 🌱 I’m currently Docker, Jenkins, Kubernetes
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...vishalabhosale30@gmail.com
+- 📫 How to reach me ..bhosalevishal0110@gmail.com
 
 <!---
 vbhosavat/vbhosavat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
